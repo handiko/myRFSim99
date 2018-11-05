@@ -212,8 +212,8 @@ current1port{
 value=1
 }
 Xax{
-max= 8.10000000000000E+0006
-min= 6.10000000000000E+0006
+max= 9.10000000000000E+0006
+min= 5.10000000000000E+0006
 numpoints=400
 centspan=FALSE
 freqmode=1
@@ -256,8 +256,8 @@ value=TRUE
 }
 drawdat{
 P1{
-pos.x=20
-pos.y=50
+pos.x=230
+pos.y=140
 node.x=1
 node.y=-1
 crot=1
@@ -265,8 +265,8 @@ Zo= 5.00000000000000E+0001
 selected=FALSE
 }
 P2{
-pos.x=340
-pos.y=50
+pos.x=550
+pos.y=140
 node.x=3
 node.y=-1
 crot=1
@@ -277,8 +277,8 @@ component{
 name=
 ctype=2
 crot=1
-position.x=40
-position.y=100
+position.x=250
+position.y=190
 selected=FALSE
 value[1]={nom= 6.56727498601143E-0009; mintol= 2.00000000000000E+0000; maxtol=-2.00000000000000E+0000; TolEn=TRUE; Tol%=TRUE; }
 value[2]={nom= 1.00000000000000E+0002; mintol= 0.00000000000000E+0000; maxtol= 0.00000000000000E+0000; TolEn=TRUE; Tol%=TRUE; }
@@ -298,8 +298,8 @@ component{
 name=
 ctype=4
 crot=1
-position.x=40
-position.y=130
+position.x=250
+position.y=220
 selected=FALSE
 value[1]={nom= 0.00000000000000E+0000; mintol= 0.00000000000000E+0000; maxtol= 0.00000000000000E+0000; TolEn=TRUE; Tol%=TRUE; }
 value[2]={nom= 0.00000000000000E+0000; mintol= 0.00000000000000E+0000; maxtol= 0.00000000000000E+0000; TolEn=TRUE; Tol%=TRUE; }
@@ -319,8 +319,8 @@ component{
 name=
 ctype=3
 crot=1
-position.x=100
-position.y=100
+position.x=310
+position.y=190
 selected=FALSE
 value[1]={nom= 7.65135521019240E-0008; mintol= 5.00000000000000E+0000; maxtol=-5.00000000000000E+0000; TolEn=TRUE; Tol%=TRUE; }
 value[2]={nom= 1.00000000000000E+0002; mintol= 0.00000000000000E+0000; maxtol= 0.00000000000000E+0000; TolEn=TRUE; Tol%=TRUE; }
@@ -340,8 +340,8 @@ component{
 name=
 ctype=4
 crot=1
-position.x=100
-position.y=130
+position.x=310
+position.y=220
 selected=FALSE
 value[1]={nom= 0.00000000000000E+0000; mintol= 0.00000000000000E+0000; maxtol= 0.00000000000000E+0000; TolEn=TRUE; Tol%=TRUE; }
 value[2]={nom= 0.00000000000000E+0000; mintol= 0.00000000000000E+0000; maxtol= 0.00000000000000E+0000; TolEn=TRUE; Tol%=TRUE; }
@@ -361,8 +361,8 @@ component{
 name=
 ctype=3
 crot=2
-position.x=140
-position.y=50
+position.x=350
+position.y=140
 selected=FALSE
 value[1]={nom= 1.82614434217407E-0005; mintol= 5.00000000000000E+0000; maxtol=-5.00000000000000E+0000; TolEn=TRUE; Tol%=TRUE; }
 value[2]={nom= 1.00000000000000E+0002; mintol= 0.00000000000000E+0000; maxtol= 0.00000000000000E+0000; TolEn=TRUE; Tol%=TRUE; }
@@ -382,8 +382,8 @@ component{
 name=
 ctype=2
 crot=2
-position.x=220
-position.y=50
+position.x=430
+position.y=140
 selected=FALSE
 value[1]={nom= 2.75162004013126E-0011; mintol= 2.00000000000000E+0000; maxtol=-2.00000000000000E+0000; TolEn=TRUE; Tol%=TRUE; }
 value[2]={nom= 1.00000000000000E+0002; mintol= 0.00000000000000E+0000; maxtol= 0.00000000000000E+0000; TolEn=TRUE; Tol%=TRUE; }
@@ -403,8 +403,8 @@ component{
 name=
 ctype=2
 crot=1
-position.x=260
-position.y=100
+position.x=470
+position.y=190
 selected=FALSE
 value[1]={nom= 6.56727498601143E-0009; mintol= 2.00000000000000E+0000; maxtol=-2.00000000000000E+0000; TolEn=TRUE; Tol%=TRUE; }
 value[2]={nom= 1.00000000000000E+0002; mintol= 0.00000000000000E+0000; maxtol= 0.00000000000000E+0000; TolEn=TRUE; Tol%=TRUE; }
@@ -424,8 +424,8 @@ component{
 name=
 ctype=4
 crot=1
-position.x=260
-position.y=130
+position.x=470
+position.y=220
 selected=FALSE
 value[1]={nom= 0.00000000000000E+0000; mintol= 0.00000000000000E+0000; maxtol= 0.00000000000000E+0000; TolEn=TRUE; Tol%=TRUE; }
 value[2]={nom= 0.00000000000000E+0000; mintol= 0.00000000000000E+0000; maxtol= 0.00000000000000E+0000; TolEn=TRUE; Tol%=TRUE; }
@@ -445,8 +445,8 @@ component{
 name=
 ctype=3
 crot=1
-position.x=320
-position.y=100
+position.x=530
+position.y=190
 selected=FALSE
 value[1]={nom= 7.65135521019240E-0008; mintol= 5.00000000000000E+0000; maxtol=-5.00000000000000E+0000; TolEn=TRUE; Tol%=TRUE; }
 value[2]={nom= 1.00000000000000E+0002; mintol= 0.00000000000000E+0000; maxtol= 0.00000000000000E+0000; TolEn=TRUE; Tol%=TRUE; }
@@ -466,8 +466,8 @@ component{
 name=
 ctype=4
 crot=1
-position.x=320
-position.y=130
+position.x=530
+position.y=220
 selected=FALSE
 value[1]={nom= 0.00000000000000E+0000; mintol= 0.00000000000000E+0000; maxtol= 0.00000000000000E+0000; TolEn=TRUE; Tol%=TRUE; }
 value[2]={nom= 0.00000000000000E+0000; mintol= 0.00000000000000E+0000; maxtol= 0.00000000000000E+0000; TolEn=TRUE; Tol%=TRUE; }
@@ -486,81 +486,113 @@ nodes[4].y=0
 short{
 startselected=FALSE
 finishselected=FALSE
-start.x=40
-start.y=50
-finish.x=40
-finish.y=80
+start.x=250
+start.y=140
+finish.x=250
+finish.y=170
 }
 short{
 startselected=FALSE
 finishselected=FALSE
-start.x=40
-start.y=50
-finish.x=100
-finish.y=50
+start.x=250
+start.y=140
+finish.x=310
+finish.y=140
 }
 short{
 startselected=FALSE
 finishselected=FALSE
-start.x=100
-start.y=50
-finish.x=100
-finish.y=80
+start.x=310
+start.y=140
+finish.x=310
+finish.y=170
 }
 short{
 startselected=FALSE
 finishselected=FALSE
-start.x=100
-start.y=50
-finish.x=120
-finish.y=50
+start.x=310
+start.y=140
+finish.x=330
+finish.y=140
 }
 short{
 startselected=FALSE
 finishselected=FALSE
-start.x=160
-start.y=50
-finish.x=180
-finish.y=50
+start.x=370
+start.y=140
+finish.x=390
+finish.y=140
 }
 short{
 startselected=FALSE
 finishselected=FALSE
-start.x=180
-start.y=50
-finish.x=200
-finish.y=50
+start.x=390
+start.y=140
+finish.x=410
+finish.y=140
 }
 short{
 startselected=FALSE
 finishselected=FALSE
-start.x=240
-start.y=50
-finish.x=260
-finish.y=50
+start.x=450
+start.y=140
+finish.x=470
+finish.y=140
 }
 short{
 startselected=FALSE
 finishselected=FALSE
-start.x=260
-start.y=50
-finish.x=260
-finish.y=80
+start.x=470
+start.y=140
+finish.x=470
+finish.y=170
 }
 short{
 startselected=FALSE
 finishselected=FALSE
-start.x=260
-start.y=50
-finish.x=320
-finish.y=50
+start.x=470
+start.y=140
+finish.x=530
+finish.y=140
 }
 short{
 startselected=FALSE
 finishselected=FALSE
-start.x=320
-start.y=50
-finish.x=320
-finish.y=80
+start.x=530
+start.y=140
+finish.x=530
+finish.y=170
+}
+short{
+startselected=FALSE
+finishselected=FALSE
+start.x=250
+start.y=210
+finish.x=250
+finish.y=210
+}
+short{
+startselected=FALSE
+finishselected=FALSE
+start.x=310
+start.y=210
+finish.x=310
+finish.y=210
+}
+short{
+startselected=FALSE
+finishselected=FALSE
+start.x=470
+start.y=210
+finish.x=470
+finish.y=210
+}
+short{
+startselected=FALSE
+finishselected=FALSE
+start.x=530
+start.y=210
+finish.x=530
+finish.y=210
 }
 }
